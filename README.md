@@ -1,4 +1,10 @@
-## Hi there 👋
+## Oh hi!
+
+Nice to see you too :)
+
+I'm Pratham, a CS undergrad! Here's some of my work.
+
+I love building DL/AI projects.
 
 <!--
 **prathamshah607/prathamshah607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
