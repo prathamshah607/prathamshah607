@@ -10,8 +10,10 @@ Just your friendly neighborhood tech enthusiast. I dive into AI, cybersecurity, 
 - **BugBounty Portal:** A JS-based platform to help find and fix vulnerabilities.  
 - **Invigilation Scheduler:** Streamlining exam invigilation schedules with Flutter + Supabase.  
 - **[AaDWika](https://github.com/prathamshah607/Search-AI-Agent/blob/master/react_agent_langgraph.ipynb):** AI Agent blending DuckDuckGo, Wikipedia, and Qwen2.5 for smarter search with context.
-- A feed-forward neural network from scratch using numpy and pandas
+- A feed-forward neural network from scratch using numpy and pandas, with a 95.5% accuracy in classifying image matrices.
 - Plus 25+ ML algorithms implemented — from classics like Logistic Regression to state-of-the-art transformers.
+
+I specialise in NLP, Agentic LLMs and RAG Systems.
 
 ### Some wins & creds
 
