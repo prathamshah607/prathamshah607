@@ -19,6 +19,7 @@ Just your friendly neighborhood tech enthusiast. I dive into AI, cybersecurity, 
 - 💯 Scholarships for exceptional Math and Computer Studies in high school  
 - 🎤 Delegate of India at Harvard Project for Asian and International Relations (Tokyo 2025)
 - 3️⃣ New SOTA models: A 74.61% F1 Profanity Detector, A 97.92% accuracy FCG Malware Detector, and a 0.12% FN-rate Spam Email/SMS classifier
+- actively plotting to build the death star
 
 ---
 
