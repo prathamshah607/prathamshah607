@@ -1,22 +1,33 @@
-## Oh hi!
+# Oh hi, I’m Pratham!
 
-Nice to see you too :)
+Nice to see you :)
 
-I'm Pratham, a CS undergrad! Here's some of my work.
+Just your friendly neighborhood tech enthusiast. I dive into AI, cybersecurity, and building nifty tools to make life easier (just keep swimming, just keep swimming..)
 
-I love building DL/AI projects.
+### Here's some of my work
 
-<!--
-**prathamshah607/prathamshah607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[Wibis](https://github.com/prathamshah607/search_engine):** A Wikipedia-powered search engine with a slick Flutter front-end.  
+- **BugBounty Portal:** A JS-based platform to help find and fix vulnerabilities.  
+- **Invigilation Scheduler:** Streamlining exam invigilation schedules with Flutter + Supabase.  
+- **[AaDWika](https://github.com/prathamshah607/Search-AI-Agent/blob/master/react_agent_langgraph.ipynb):** AI Agent blending DuckDuckGo, Wikipedia, and Qwen2.5 for smarter search with context.  
+- Plus 25+ ML algorithms implemented — from classics like Logistic Regression to state-of-the-art transformers.
 
-Here are some ideas to get you started:
+### Some wins & creds
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏆 3rd place out of 1021 teams at the AICS ICONIP CyberAI Cup 2025  
+- 📜 NLP Specialization from DeepLearning.AI  
+- 💯 Scholarships for exceptional Math and Computer Studies in high school  
+- 🎤 Delegate of India at Harvard Project for Asian and International Relations (Tokyo 2025)
+- 3️⃣ New SOTA models: A 74.61% F1 Profanity Detector, A 97.92% accuracy FCG Malware Detector, and a 0.12% FN-rate Spam Email/SMS classifier
+
+---
+
+### Tech Stack
+
+Tensorflow-Keras | PyTorch | HuggingFace | Ollama | SKLearn | Flutter | Python | Dart | Java | C | Node.js
+
+---
+
+### Let’s Connect!
+
+Welcome to my digital playground. It's a sad attempt at building JARVIS. feel free to explore, collaborate, or just say hi!
