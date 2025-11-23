@@ -24,6 +24,15 @@ I specialise in NLP, Agentic LLMs and RAG Systems.
 - 3️⃣ New SOTA models: A 74.61% F1 Profanity Detector, A 97.92% accuracy FCG Malware Detector, and a 0.12% FN-rate Spam Email/SMS classifier
 - actively plotting to build the death star
 
+<img width="944" height="386" alt="image" src="https://github.com/user-attachments/assets/43b61d63-0e07-4d91-ad70-9406e00bdc63" />
+
+
+<img width="1500" height="227" alt="image" src="https://github.com/user-attachments/assets/27905121-e3b3-45de-808c-995ab47d16bb" />
+
+<img width="1011" height="666" alt="image" src="https://github.com/user-attachments/assets/1d4e4f04-d579-4bee-9391-fc2093d99ef6" />
+
+
+
 ---
 
 ### Tech Stack
