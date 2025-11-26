@@ -6,10 +6,11 @@ Just your friendly neighborhood tech enthusiast. I dive into AI, cybersecurity, 
 
 ### Here's some of my work
 
-- **[Wibis](https://github.com/prathamshah607/search_engine):** A Wikipedia-powered search engine with a slick Flutter front-end.  
+- **[Athena-v1](https://github.com/prathamshah607/search_engine):** A Wikipedia-powered search engine with a slick Flutter front-end.  
 - **BugBounty Portal:** A JS-based platform to help find and fix vulnerabilities.  
-- **Invigilation Scheduler:** Streamlining exam invigilation schedules with Flutter + Supabase.  
-- **[AaDWika](https://github.com/prathamshah607/Search-AI-Agent/blob/master/react_agent_langgraph.ipynb):** AI Agent blending DuckDuckGo, Wikipedia, and Qwen2.5 for smarter search with context.
+- **Invigilation Scheduler:** Streamlining exam invigilation schedules with Flutter + Supabase.
+- **Pythia:** Agentic LLMs combined with ArXiv for dynamic searching and learning via research papers. RAG-based LLM tutor and explainer.  
+- **[Athena-v2](https://github.com/prathamshah607/Search-AI-Agent/blob/master/react_agent_langgraph.ipynb):** AI Agent blending DuckDuckGo, Wikipedia, and Qwen2.5 for smarter search with context.
 - A feed-forward neural network from scratch using numpy and pandas, with a 95.5% accuracy in classifying image matrices.
 - Plus 25+ ML algorithms implemented — from classics like Logistic Regression to state-of-the-art transformers.
 
