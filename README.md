@@ -2,7 +2,7 @@
 
 Nice to see you :)
 
-Just your friendly neighborhood tech enthusiast. I dive into AI, cybersecurity, and building nifty tools to make life easier (just keep swimming, just keep swimming..)
+Just your friendly neighborhood tech enthusiast. I work in AI, cybersecurity, and building nifty things to make life less boring
 
 ### Here's some of my work
 
