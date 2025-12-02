@@ -2,7 +2,7 @@
 
 Nice to see you :)
 
-Just your friendly neighborhood tech enthusiast. I work in AI, cybersecurity, and building nifty things to make life less boring
+Just your friendly neighborhood tech enthusiast. I work in AI and building nifty things to make life less boring
 
 ### Here's some of my work
 
