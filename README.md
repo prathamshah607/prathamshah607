@@ -1,4 +1,4 @@
-# Oh hi, I’m Pratham!
+# Hi, I’m Pratham
 
 Nice to see you :)
 
