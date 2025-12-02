@@ -18,7 +18,7 @@ I specialise in NLP, Agentic LLMs and RAG Systems.
 
 ### Some wins & creds
 
-- 🏆 3rd place out of 1021 teams at the AICS ICONIP CyberAI Cup 2025  
+- 🏆 3rd place out of 1021 international teams at the AICS ICONIP CyberAI Cup 2025  
 - 📜 NLP Specialization from DeepLearning.AI  
 - 💯 Scholarships for exceptional Math and Computer Studies in high school  
 - 🎤 Delegate of India at Harvard Project for Asian and International Relations (Tokyo 2025)
