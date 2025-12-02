@@ -22,7 +22,7 @@ I specialise in NLP, Agentic LLMs and RAG Systems.
 - 📜 NLP Specialization from DeepLearning.AI  
 - 💯 Scholarships for exceptional Math and Computer Studies in high school  
 - 🎤 Delegate of India at Harvard Project for Asian and International Relations (Tokyo 2025)
-- 3️⃣ New SOTA models: A 74.61% F1 Profanity Detector, A 97.92% accuracy FCG Malware Detector, and a 0.12% FN-rate Spam Email/SMS classifier
+- 3️⃣ New SOTA models: A 74.7% F1 Profanity Detector, A 97.92% accuracy FCG Malware Detector, and a 0.12% FN-rate Spam Email/SMS classifier
 - actively plotting to build the death star
 
 <img width="944" height="386" alt="image" src="https://github.com/user-attachments/assets/43b61d63-0e07-4d91-ad70-9406e00bdc63" />
